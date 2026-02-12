@@ -15,10 +15,10 @@ const noMessages = [
     "Dai Panzerottaaaa... 🥺",
     "Ci rimarrò davvero male se mi dici dino...",
     "Sarò molto molto triste.. 😢",
+    "Tanto non ce la faria a prendermiiiiiiiii 😜",
     "Per favoreeeeeee??? 💔",
     "Dai non farlooooooo...",
-    "Ultima chance! 😭",
-    "Tanto non ce la faria a prendermiiiiiiiii 😜"
+    "Ultima chance! 😭"
 ]
 
 const yesTeasePokes = [
