@@ -15,7 +15,7 @@ const noMessages = [
     "Dai Panzerottaaaa... 🥺",
     "Ci rimarrò davvero male se mi dici di no...",
     "Sarò molto molto triste.. 😢",
-    "Tanto non ce la faria a prendermiiiiiiiii" 😜
+    "Tanto non ce la faria a prendermiiiiiiii" 😜
 ]
 
 const yesTeasePokes = [
