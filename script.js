@@ -15,10 +15,10 @@ const noMessages = [
     "Dai Panzerottaaaa... 🥺",
     "Ci rimarrò davvero male se mi dici dino...",
     "Sarò molto molto triste.. 😢",
-    "Tanto non ce la faria a prendermiiiiiiiii 😜",
     "Per favoreeeeeee??? 💔",
     "Dai non farlooooooo...",
-    "Ultima chance! 😭"
+    "Ultima chance! 😭",
+    "Tanto non ce la faria a prendermiiiiiiiii 😜"
 ]
 
 const yesTeasePokes = [
@@ -40,7 +40,7 @@ const noBtn = document.getElementById('no-btn')
 const music = document.getElementById('bg-music')
 
 // Autoplay: audio starts muted (bypasses browser policy), unmute immediately
-music.muted = false
+music.muted = true
 music.volume = 0.1
 music.play().then(() => {
     music.muted = false
